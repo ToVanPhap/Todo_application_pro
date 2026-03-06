@@ -1,6 +1,4 @@
 # 🚀 Todo application
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://link-app-streamlit-cua-ban.streamlit.app)
-
 A sleek, modern, and efficient task management application built with **Python** and **Streamlit**. This app features a clean UI/UX and a robust backend designed to help you organize your daily workflow seamlessly.
 
 ---
